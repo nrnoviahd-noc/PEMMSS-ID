@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use PEMMSS-ID, please cite this repository and the upstream PEMMSS model."
+title: "PEMMSS-ID: Indonesian Coastal Ecological Risk Model — Research Prototype"
+type: software
+license: MIT
+authors:
+  - family-names: Hidayah
+    given-names: Nur Novia
+repository-code: "https://github.com/nrnoviahd-noc/PEMMSS-ID"

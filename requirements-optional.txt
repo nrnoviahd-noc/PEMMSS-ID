@@ -1,0 +1,3 @@
+# Optional notebook UI and GeoDataFrame interoperability
+jupyterlab>=4,<5
+geopandas>=1,<2
