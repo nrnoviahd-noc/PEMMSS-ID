@@ -95,12 +95,12 @@ All example outputs under `outputs/demo/` are generated from synthetic inputs.
 | pollution_quality_report.csv | Row-level issues; 30 missing detection-limit warnings expected |
 | scenario_activity.csv | Independent scenario/activity proxy, not emissions |
 | processed_observations.csv | Joined synthetic samples and demo index |
-| spatial_cv_predictions.csv | Held-out predictions, fold IDs; software validation only |
+| spatial_cv_predictions.csv | Held-out predictions and fold IDs; software validation only |
 | validation_folds.csv / validation_metrics.csv | Fold and pooled software metrics |
 | spatial_predictions.csv / .geojson | Prediction, uncertainty, data coverage, applicability |
 | observations.geojson | Original synthetic stations and processed fields |
-| *.png | Synthetic concentration, richness, index, predicted richness, band width, priority maps |
-| run_manifest.json | Config, input hashes, package versions and limitations |
+| *.png | Synthetic concentration, richness, index, predicted richness, band width, and priority maps |
+| run_manifest.json | Configuration, input hashes, package versions, and limitations |
 
 ![Synthetic mean-response uncertainty example](outputs/demo/uncertainty.png)
 
